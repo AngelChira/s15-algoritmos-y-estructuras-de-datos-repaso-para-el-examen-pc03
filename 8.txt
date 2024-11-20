@@ -1,0 +1,34 @@
+// colitas prioridad
+
+
+public enum nameVariable {datos, datos}
+
+
+Comparator<clase> nombre = Comparator.comparing(Clase::getDato);
+
+
+ Comparator<clase> porEdadDescOrden = porEdad.reversed().thenComparing(porOrden);
+
+
+Queue<clase> variavle = new PriorityQueue<>(prioridad);
+
+enqueue() -> .offer(instancia);
+
+dequeue() -> .poll();
+
+peek() -> .peek();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

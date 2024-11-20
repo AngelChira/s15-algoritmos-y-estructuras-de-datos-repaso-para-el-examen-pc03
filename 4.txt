@@ -1,0 +1,6 @@
+int top
+
+this.top=-1
+
+top == li.len() -1 ? f : sigue nomas
+
